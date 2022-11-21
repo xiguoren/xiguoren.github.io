@@ -20,13 +20,10 @@ Hi, I'm currently a PhD Student in Bioinformatics advised by [Prof. Dr. Dmitrij 
 
 * **Technical University of Munich**, Munich, Germany  
   Doctor of Philosophy, Bioinformatics, Nov. 2022 - current  
-  
 * **Ludwig-Maximilians-Universität München**, Munich, Germany  
   Master of Science, Computer Science, Nov. 2021 - May. 2022  
-  
 * **Ludwig-Maximilians-Universität München**, Munich, Germany  
   Bachelor of Science, Computer Science plus Statistics, Oct. 2018 - Nov. 2021  
-
 
 <body>
 
