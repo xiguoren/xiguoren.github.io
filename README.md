@@ -7,11 +7,11 @@
 
 
 Email: guoren.xi{at}tum.de  
-[[Google Scholar]](#) [[Github]](https://github.com/xiguoren) [[Linkedin]](https://www.linkedin.com/in/guorenxi/)
+[[Google Scholar]](#) [[Github]](https://github.com/xiguoren) [[LinkedIn]](https://www.linkedin.com/in/guorenxi/) [[Twitter]](https://twitter.com/xiguoren)
 
 Hi, I'm currently a PhD Student in Bioinformatics advised by [Prof. Dr. Dmitrij Frishman](https://scholar.google.de/citations?user=9wFz3EsAAAAJ&hl=en) at TUM.
 
-### Reasearch Interests
+### Research Interests
 
 * Artificial intelligence for science
 * Computational biology and bioinformatics
